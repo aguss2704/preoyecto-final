@@ -1,0 +1,26 @@
+@media  screen and (max-width: 500px){
+    .titulo-c{
+        width: 100%;
+    }
+    .img-g{
+       margin: 0;
+        flex-direction: column;
+        height: auto;
+        width: 300px;
+       margin-left: 100px; 
+       margin-bottom: 20px;
+        
+    }
+    .img-t{
+        flex-direction: column;
+        height: auto;
+        width: 300px;
+        margin-left: 100px;
+    }
+    .texto-g{
+        margin-left: 70px;
+    }
+    .texto-w{
+      margin-left: 70px;
+    }
+}

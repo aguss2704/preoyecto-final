@@ -1,0 +1,13 @@
+@media screen and (max-width: 700px){
+    .contenedor-img{
+        
+       grid-template-columns: repeat(1, 1fr);
+       grid-template-rows: repeat(1, 300px
+       );
+       gap: 5px;
+       background-color: rgb(147, 28, 177);
+       .img-6{
+      display: none;
+       }
+}
+}

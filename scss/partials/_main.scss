@@ -1,0 +1,20 @@
+main{ 
+    .section-info {
+            margin: 70px;
+            display: flex;
+            justify-content: center;
+            gap: 50px;
+        }
+    }
+    
+    main {
+        .section-info {
+            .contenedor-texto {
+                width: 30%;
+                
+            }
+        }
+    }
+    h1{
+        text-align: left;
+    }

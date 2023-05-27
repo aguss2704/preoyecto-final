@@ -1,0 +1,46 @@
+.titulo-c {
+    margin-top: 5px;
+    background-color: rgb(147, 28, 177);
+    color: white;
+    text-align: center;
+}
+
+.sub-titulo-c {
+    margin-top: 5px;
+    background-color: rgb(147, 28, 177);
+    color: white;
+    text-align: center;
+}
+
+@media screen and (min-width: 501px) {
+
+
+    .img-c {
+        display: flex;
+        width: 800px;
+        height: 500px;
+
+        .img-t {
+            margin-left: 350px;
+        }
+
+        .img-g {
+            margin-left: 250px;
+        }
+    }
+}
+
+.texto-g {
+    height: 25px;
+    margin-left: 15px;
+    color: rgb(255, 0, 212);
+    text-align: center;
+    font-size: x-large;
+}
+
+.texto-w {
+    margin-left: 15px;
+    color: rgb(30, 194, 71);
+    text-align: center;
+    font-size: x-large;
+}
